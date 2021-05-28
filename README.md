@@ -1,5 +1,6 @@
 # SpaceshipDodgingGame
-- ```Created by Chen Zhang```
+```Created by Chen Zhang```
+- ```sudo apt install libncurses5-dev```
 - ```Compile: make```
 - ```Run: bin/main```
 - Optional parameters:\
